@@ -1,24 +1,8 @@
 # front_desafio
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Para consumir a API utilizei o Axios.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Devido ao pouco tempo que tive, fiquei com alguns débitos técnicos: procurar produtos por nome, excluir produtos marcados com checkbox(consegui pegar todos os ids marcados nos checkbox mas não consegui apagar eles)
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
